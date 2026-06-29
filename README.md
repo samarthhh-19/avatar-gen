@@ -2,10 +2,8 @@
 
 A modern, customizable avatar generator built with **Next.js**, **React**, and **TypeScript**. Create unique profile avatars by combining facial features, hairstyles, outfits, accessories, and backgrounds with instant live preview. Export your creations as high-quality **PNG** or **SVG**.
 
-<p align="center">
-  <img src="file:///Users/samarthdagar/Desktop/Screenshot%202026-06-29%20at%203.52.25%E2%80%AFPM.png" width="48%">
-  <img src="file:///Users/samarthdagar/Desktop/Screenshot%202026-06-29%20at%203.52.40%E2%80%AFPM.png" width="48%">
-</p>
+<img width="500" height="340" alt="Screenshot 2026-06-29 at 3 52 25 PM" src="https://github.com/user-attachments/assets/08654459-c713-4231-ab57-80e0bf34ead1" />
+<img width="500" height="340" alt="Screenshot 2026-06-29 at 3 52 40 PM" src="https://github.com/user-attachments/assets/4a3985b3-1283-413e-92d9-a155d9c0b100" />
 
 ---
 
